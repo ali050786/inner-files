@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" viewBox="0 0 816 1055" style="margin:0 auto; padding:8px 0 0 8px;">
+	<defs>
+		<style>
+			.disc{fill:black;}
+		</style>
+	</defs>
+
+	<g class="disc">
+		<circle cx="130" cy="505" r="3"/>
+		<circle cx="130" cy="542" r="3"/>
+		<circle cx="130" cy="580" r="3"/>
+		<circle cx="130" cy="617" r="3"/>
+		<circle cx="130" cy="655" r="3"/>
+		<circle cx="130" cy="692" r="3"/>
+
+		<circle cx="130" cy="767" r="3"/>
+		<circle cx="130" cy="805" r="3"/>
+		<circle cx="130" cy="842" r="3"/>
+
+		<circle cx="130" cy="344" r="3"/>
+		<circle cx="130" cy="364" r="3"/>
+		<circle cx="130" cy="402" r="3"/>
+		<circle cx="460" cy="344" r="3"/>
+		<circle cx="460" cy="364" r="3"/>
+		<circle cx="460" cy="384" r="3"/>
+	</g>
+	<g stroke="#434d54" stroke-width="1" fill="#fff">
+		<circle cx="83" cy="192" r="6" />
+		<circle cx="83" cy="308" r="6" />
+		<circle cx="83" cy="449" r="6" />
+		<circle cx="83" cy="908" r="6" />
+	</g>
+	<g>
+		<line x1="83" y1="198" x2="83" y2="302" style="stroke:#434d54;stroke-width:1" />
+		<line x1="83" y1="314" x2="83" y2="443" style="stroke:#434d54;stroke-width:1" />
+		<line x1="83" y1="455" x2="83" y2="902" style="stroke:#434d54;stroke-width:1" />
+		<line x1="83" y1="914" x2="83" y2="1005" style="stroke:#434d54;stroke-width:1" />
+	</g>
+	<g font-family="Verdana, Geneva, sans-serif" font-size="40" font-weight="700" fill="#343b40">
+		<text x="107" y="69">JESSICA</text>
+		<text x="107" y="110">CLAIRE</text>
+	</g>
+	<g font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700" fill="#343b40">
+		<text x="107" y="199" textLength="245">PROFESSIONAL SUMMARY</text>
+		<text x="107" y="315" textLength="69">SKILLS</text>
+		<text x="107" y="456" textLength="149">WORK HISTORY</text>
+		<text x="107" y="915" textLength="112">EDUCATION</text>
+	</g>
+	<g font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="400" fill="#343b40">
+		<text x="107" y="130" textLength="417">dsample@live.in | H: 508-278-2542 | C: 781-669-5989</text>
+		<text x="107" y="150" textLength="314">123 Main Street, San Francisco, CA 94122</text>
+
+		<text x="107" y="228" textLength="631">Accomplished Operations executive with a successful track record overseeing regional</text>
+		<text x="107" y="247" textLength="649">Marketing ,IT,HR/training and property in company and franchise operations for a large</text>
+		<text x="107" y="266" textLength="155">chain of restaurants.</text>
+
+		<text x="153" y="350" textLength="199">Executive team leadership</text>
+		<text x="153" y="370" textLength="280">Multi-million pound P&amp;L management</text>
+		<text x="153" y="388" textLength="230">expertise for South East region</text>
+		<text x="153" y="408" textLength="173">Client/Vender relations</text>
+		<text x="483" y="350" textLength="269">Marketing/Product line development</text>
+		<text x="483" y="370" textLength="250">Staff/training policy development</text>
+		<text x="483" y="388" textLength="158">Process Improvement</text>
+
+		<text x="153" y="511" textLength="532">Directed recruitment/training/staff development initiatives to maximize</text>
+		<text x="153" y="530" textLength="548">productivity and revenue potential through development of a sales team.</text>
+		<text x="153" y="548" textLength="524">Successfully increased employee retention by creating a positive work</text>
+		<text x="153" y="567" textLength="197">environment in 18 stores.</text>
+		<text x="153" y="586" textLength="607">Administered daily operations to ensure policies were adhered to and understood</text>
+		<text x="153" y="605" textLength="105">by sales staff.</text>
+		<text x="153" y="623" textLength="545">Cultivated strong business relationships with customers to drive business</text>
+		<text x="153" y="642" textLength="110">developments.</text>
+		<text x="153" y="661" textLength="549">Planned and executed floor merchandising initiatives in collaboration with</text>
+		<text x="153" y="679" textLength="205">merchandise management.</text>
+		<text x="153" y="698" textLength="617">Ensure store is prepared for internal audits through analysis/preparation of quality</text>
+		<text x="153" y="717" textLength="260">assurance and Inventory statistics.</text>
+
+		<text x="153" y="773" textLength="570">Oversaw opening/closing operations for a $4 million annual revenue store in</text>
+		<text x="153" y="792" textLength="411">compliance with current company policies/procedures.</text>
+		<text x="153" y="811" textLength="615">Managed operatonal costs by spearheading inventory control and leading shipping</text>
+		<text x="153" y="829" textLength="387">department activies as well as setting wage targets.</text>
+		<text x="153" y="848" textLength="607">Administered financial processes including accounts payable/accounts receivable,</text>
+		<text x="153" y="867" textLength="480">managing accounting office and updating customer service files</text>
+
+		<text x="107" y="945" textLength="335">San Francisco University - San Francisco, CA</text>
+		<text x="392" y="964" textLength="284">: Operations Management Speech and</text>
+		<text x="107" y="983" textLength="321">Communication, Sociology and Psychology,</text>
+		<text x="107" y="1001" textLength="595">Operations Management Speech and Communication, Sociology and Psychology</text>
+
+		<text x="250" y="485" textLength="286">| Verizon Wireless - San Francisco, CA</text>
+		<text x="282" y="748" textLength="274">| Walgreens, Inc - San Francisco, CA</text>
+	</g>
+	<g font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700" fill="#343b40">
+		<text x="107" y="485" textLength="142">District Manager</text>
+		<text x="107" y="748" textLength="171">Operations manager</text>
+		<text x="107" y="964" textLength="287">Master of Business Administration</text>
+	</g>
+	<g font-family="Verdana, Geneva, sans-serif" font-style="italic" font-size="16" font-weight="400" fill="#343b40" class="ls-mp7">
+		<text x="630" y="485" textLength="144">09/2009 - Current</text>
+		<text x="625" y="748" textLength="147">08/1997 - 09/2009</text>
+		<text x="730" y="945" textLength="42">2009</text>
+	</g>	
+</svg>

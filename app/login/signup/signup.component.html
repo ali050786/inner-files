@@ -1,0 +1,51 @@
+<section class="signup">
+        <div class="form-container">
+            <div class="form-inner">
+                <p>If you purchased one of our producst, fill the form below to create your account, and wait for approval.</p>
+                <form #signForm="ngForm" (ngSubmit)="signup(signForm, sigupuser)" novalidate>
+                        <div class="form-group">
+                      
+                                <input type="text" class="form-control" required placeholder="Enter your full name" name="name" [(ngModel)]="sigupuser.name" 
+                                                                        #name="ngModel" [ngClass]="{'is-invalid': signForm.submitted && name.invalid }">
+                                <div class="invalid-feedback" *ngIf="signForm.submitted && name.invalid">
+                                    <div>Please Enter Name</div>
+                                </div>
+                            </div>
+                    <div class="form-group">
+                      
+                        <input type="email" class="form-control" placeholder="Enter your email"  name="email" [(ngModel)]="sigupuser.email" required
+                                                                                                 #email="ngModel" [ngClass]="{'is-invalid': signForm.submitted && email.invalid }"
+                                                                                                 pattern="^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$">
+                        <div class="invalid-feedback" *ngIf="signForm.submitted && email.invalid">
+                            <div *ngIf="email.errors.required">Email is required</div>
+                            <div *ngIf="email.errors.pattern">Please Enter Valid Email</div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        
+                        <input type="password" class="form-control" required placeholder="password" name="password" [(ngModel)]="sigupuser.password" minlength="8"
+                                                                                                                #password="ngModel" [ngClass]="{'is-invalid': signForm.submitted && password.invalid }"> 
+                        <div class="invalid-feedback" *ngIf="signForm.submitted && password.invalid">
+                            <div *ngIf="password.errors.required">Password is required</div>
+                            <div *ngIf="password.errors.minlength">Password must be atleast 8 character</div>
+                        </div>
+                    </div>
+                    <button class="btn btn-primary button button-full-width" type="submit">Sign Up</button>
+                </form>
+            
+                
+            </div>
+        </div>
+        <div class="secondary-container">
+            <div class="secondary-content">
+                <h1>Join Us</h1>
+                <p>Join our community of customers and get access to our support forum. We'll be glad to help you and to answer your questions.</p>
+            </div>
+            <img src="https://cssninja.io/themes/cssninja/assets/images/bg/temple.svg">
+        </div>
+    </section>
+    
+    
+    
+    
+    

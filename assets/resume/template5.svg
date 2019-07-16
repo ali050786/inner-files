@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" width="816" height="1055" viewBox="0 0 816 1055" style="margin:0 auto;">
+	<defs>
+		<style>
+			.h1{font-family:Arial; font-size:27px; fill:#ffffff; font-weight:bold; __fill:red;}
+			.p{font-family:Arial; font-size:13px; fill:#333; __fill:red;}
+			.pb{font-family:Arial; font-size:13px; font-weight:bold; fill:#333; __fill:red;}
+			.pi{font-family:Arial; font-style:italic; font-size:13px;  fill:#333; __fill:red;}
+			.h2{font-family:Arial; font-size:15px; fill:#333; font-weight:bold; __fill:red;}
+			.li-circle {fill:#000000; _fill:red}
+			.text-cap {text-transform:capitalize;}
+		</style>
+	</defs>
+
+	<rect x="33" y="45" width="750" height="68" fill="#1d4871"/>
+	<rect x="33" y="113" width="750" height="32" fill="#d0e1f4"/>
+	<text x="295" y="89" class="h1">JESSICA CLAIRE</text>
+	<line x1="33" y1="147" x2="783" y2="147" stroke="#333366" stroke-width="1"/>
+	<rect x="33" y="151" width="750" height="3" fill="#000000"/>
+
+
+	<circle  cx="338" cy="133" r="3" class="li-circle"/>
+	<circle  cx="455" cy="133" r="3" class="li-circle"/>
+	<circle  cx="570" cy="133" r="3" class="li-circle"/>
+
+    <text x="79" y="139" class="p">123 Main Street, San Francisco, CA 94122
+		<tspan x="350">H: 415-278-2542</tspan>
+		<tspan x="465">C: 415-669-5989</tspan>
+		<tspan x="585">jessica.claire@live.com</tspan>
+	</text>
+
+
+	<text x="33" y="194" class="h2">PROFESSIONAL SUMMARY</text>
+	<text x="33" y="225" class="p">Accomplished Operations executive with a successful track record overseeing regional Marketing, IT, HR/training and
+		<tspan x="33" y="225" dx="0" dy="20" class="p">property in company and franchise operations for a large chain of restaurants</tspan> 
+	</text>
+	
+
+
+	<circle  cx="51" cy="308" r="3" class="li-circle"/>
+	<circle  cx="425" cy="308" r="3" class="li-circle"/>
+	<circle  cx="51" cy="328" r="3" class="li-circle"/>
+	<circle  cx="425" cy="328" r="3" class="li-circle"/>
+	<circle  cx="51" cy="368" r="3" class="li-circle"/>
+	<circle  cx="425" cy="348" r="3" class="li-circle"/>
+
+	<text x="33" y="282" class="h2">SKILLS</text>
+	<text x="65" y="313" class="p">Executive team leadership</text>
+	<text x="440" y="313" class="p">Marketing/product line development</text>
+	<text x="65" y="333" class="p">Multi-million pound P&amp;L management expertise for 
+		<tspan x="65" y="333" dx="0" dy="20">South East Region</tspan>
+	</text>
+	<text x="440" y="333" class="p">Staff/training policy development</text>
+	<text x="65" y="373" class="p">Client/vendor relations</text>
+	<text x="440" y="353" class="p">Process improvement</text>
+
+		
+
+	<circle  cx="51" cy="496" r="3" class="li-circle"/>
+	<circle  cx="51" cy="536" r="3" class="li-circle"/>
+	<circle  cx="51" cy="556" r="3" class="li-circle"/>
+	<circle  cx="51" cy="576" r="3" class="li-circle"/>
+	<circle  cx="51" cy="596" r="3" class="li-circle"/>
+	<circle  cx="51" cy="616" r="3" class="li-circle"/>
+
+	<text x="33" y="430" class="h2">WORK HISTORY</text>
+	<text x="33" y="461" class="pb">District Manager</text>
+	<text x="33" y="481" class="p">San Francisco, CA</text>
+	<text x="678" y="481" class="pb">09/2009 - Current</text>
+	
+	<text x="64" y="501" class="p">Directed recruitment/training/staff development initiatives to maximize productivity and revenue potential 
+		<tspan x="64" y="501" dx="0" dy="20">through development of a sales team.</tspan>
+	</text>
+
+	<text x="64" y="541" class="p">Successfully increased employee retention by created a positive work environment in 18 stores.</text>
+	<text x="64" y="561" class="p">Administered daily operations to ensure policies were adhered to and understood by sales staff.</text>
+	<text x="64" y="581" class="p">Cultivated strong business relationships with customers to drive business development.</text>
+	<text x="64" y="601" class="p">Planned and executed floor merchandising initiatives in collaboration with merchandise management.</text>
+	<text x="64" y="621" class="p">Ensure store is prepared for internal audits through analysis/preparation of quality assurance and Inventory 
+		<tspan dx="0" dy="0">statistics.</tspan>
+	</text>
+	
+
+	
+	<circle  cx="51" cy="691" r="3" class="li-circle"/>
+	<circle  cx="51" cy="731" r="3" class="li-circle"/>
+	<circle  cx="51" cy="771" r="3" class="li-circle"/>
+
+	<text x="33" y="655" class="pb">Operations manager</text>
+	<text x="33" y="675" class="p">Walgreens, Inc - San Francisco, CA</text>
+	<text x="678" y="675" class="pb">08/1997 - 09/2009</text>
+
+	<text x="64" y="695" class="p">Oversaw opening/closing operations for a $4 million annual revenue store in compliance with current company 
+		<tspan x="64" y="695" dx="0" dy="20">policies/procedures.</tspan>
+	</text>
+	<text x="64" y="735" class="p">Managed operational costs by spearheading inventory control and leading shipping department activities as well 
+		<tspan x="64" y="735" dx="0" dy="20">as setting wage targets</tspan>
+	</text>
+	<text x="64" y="775" class="p">Administered financial processes including accounts payable/accounts receivable, managing an accounting office 
+		<tspan x="64" y="775" dx="0" dy="20">and updating customer service files.</tspan>
+	</text>
+	
+
+
+
+	<text x="33" y="833" class="h2">EDUCATION</text>
+	<text x="33" y="863" class="p">
+		<tspan x="33" y="863" class="pb">Master of Business Administration: </tspan>
+		<tspan dx="10" dy="0" class="p"> Operations Management Speech and Communication, Sociology and Psychology</tspan>
+		<tspan x="33" y="863" dx="0" dy="21" class="p">Operations Management Speech and Communication, Sociology and Psychology</tspan>
+		<tspan x="33" y="863" dx="0" dy="42" class="p">San Francisco State University - San Francisco, CA</tspan>
+		<tspan x="33" y="863" dx="0" dy="63" class="p">Operations Management Speech and Communication, Sociology and Psychology Operations Management Speech and</tspan>
+		<tspan x="33" y="863" dx="0" dy="84" class="p">Communication, Sociology and Psychology</tspan>
+		<tspan x="33" y="863" dx="0" dy="114" class="pb">Certified Retail District Manager, Verizon Inc.: July 2009 Certifications Certified Retail District Manager, Verizon Inc.:</tspan>
+	</text>
+	<text x="754" y="903" class="pb">2009</text>
+</svg>
